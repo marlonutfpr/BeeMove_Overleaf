@@ -1,0 +1,13 @@
+# Saídas do LaTeX (o Overleaf gera as suas)
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.spl
+main.pdf
+# As figuras FigN.pdf SÃO versionadas: o Overleaf não compila figures/*.tex.
